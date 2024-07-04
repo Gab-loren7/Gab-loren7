@@ -1,17 +1,12 @@
  <!-- Cabeçario -->
- 
-<div align="center">
+
   <h1>
     👋 Olá, meu nome é Gabriel Lorenssetti 👋
   </h1>
-  <h3>
-    Seja bem-vindo ao meu perfil
-  </h3>
-</div>
-
+  
 <br>
 
-<div align="center">
+<div>
  
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gabriellorenss/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gab_loren7/)
@@ -23,7 +18,7 @@
 <img height="195em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-loren7&layout=compact&langs_count=7&theme=transparent"/> 
 
 <h1></h1>
-<div align="center">
+<div>
   <h3>
     Linguagens de Programação 💻
   </h3>
@@ -35,7 +30,7 @@
 </div>
 
 <h1></h1>
-<div align="center">
+<div>
   <h3>
     Softwares de Design 🖍
   </h3>
