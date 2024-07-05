@@ -14,8 +14,11 @@
 
 </div>
 
+<div style="display:block;">
+ 
 ![Gabriel Lorenssetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Gab-loren7&show_icons=true&theme=transparent)
 <img height="195em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-loren7&layout=compact&langs_count=7&theme=transparent"/> 
+</div>
 
 <h1></h1>
 <div>
