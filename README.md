@@ -1,7 +1,7 @@
  <!-- Cabeçario -->
 
   <h1>
-       QUERO MUITO PAU O TEMPO TODO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+       
   </h1>
   
 <br>
