@@ -1,45 +1,72 @@
- <!-- Cabeçario -->
+<h1 align="center">Olá, Como vai? 👋</h1>
 
-  <h1>
-       
-  </h1>
-  
-<br>
+###
 
-<div>
- 
-[![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gabriellorenss/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gab_loren7/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lorenssetti-8a352a29b/)
-
+<div align="center">
+  <img height="200" src="https://media.tenor.com/QqNt5mW0VRYAAAAM/cat.gif"  />
 </div>
 
-<div style="display:block;">
- 
-![Gabriel Lorenssetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Gab-loren7&show_icons=true&theme=transparent)
-<img height="195em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gab-loren7&layout=compact&langs_count=7&theme=transparent"/> 
+###
+
+<p align="center">Meu nome é Gabriel Lorenssetti, tenho 17 anos e moro em Florianópolis, SC.</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gab-loren7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gab-loren7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h1></h1>
-<div>
-  <h3>
-    Linguagens de Programação 💻
-  </h3>
-  <br>
- 
- <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+###
+
+<h2 align="left">Ferramentas de Programação 💻</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-<h1></h1>
-<div>
-  <h3>
-    Softwares de Design 🖍
-  </h3>
-  <br>
- 
- <img align="center" alt="Adobe Ilustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
- <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
- <img align="center" alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white">
+###
+
+<h2 align="left">Softwares de Design 🖍</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" height="40" alt="Adobe InDesign" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gab-loren7/Gab-loren7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gab-loren7/Gab-loren7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gab-loren7/Gab-loren7/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Gab-loren7/Gab-loren7/output/snake.svg" alt="Snake animation" />
+
+###
