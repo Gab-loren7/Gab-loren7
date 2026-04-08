@@ -28,6 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  
 </div>
 
 ###
@@ -44,6 +47,7 @@
   <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" height="40" alt="Adobe InDesign" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -56,5 +60,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gab-loren7/Gab-loren7/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gab-loren7/Gab-loren7/output/pacman-contribution-graph.svg">
 </picture>
+
+<br>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Gab-loren7/Gab-loren7/output/snake.svg" alt="Snake animation" />
 
 ###
