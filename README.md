@@ -61,13 +61,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gab-loren7/Gab-loren7/output/pacman-contribution-graph.svg">
 </picture>
 
-<br>
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gab-loren7/Gab-loren7/output/snake.svg" alt="Snake animation" />
 
 ###
